@@ -21,21 +21,10 @@ Station Analysis
 - Plotted the results as a histogram with bins=12.
 
 Climate App
-Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
 
-Use Flask to create your routes.
-
-
-Routes
-
-
-/
-
-
-Home page.
-
-
-List all routes that are available.
+- Used Flask to create my routes,
+- Listed all routes that are available,
+- 
 
 
 
