@@ -20,7 +20,7 @@ Station Analysis
 - Filtered by the station with the highest number of observations,
 - Plotted the results as a histogram with bins=12.
 
-Climate App
+Climate App.
 
 - Used Flask to create my routes,
 - Listed all routes that are available,
